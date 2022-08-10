@@ -1,4 +1,4 @@
-# FoodRunner-App  <a href="https://github.com/amanr11314/FoodRunner/releases/download/v1.0/FoodRunner.apk" target="blank"> <img src="/screenshots/download-apk.png" width="120"  title="Download apk"> </a>
+# FoodRunner-App  <a href="https://github.com/amanr11314/FoodRunner/releases/download/v1.0/FoodRunner.apk" target="blank"> <img src="/Screenshots/apk-image.png" width="120"  title="Download apk"> </a>
 Android App for ordering food online build using Kotlin and XML
 
 The app is built in Kotlin and uses Volley library to send GET and POST requests through REST api calls.
