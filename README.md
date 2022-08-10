@@ -15,3 +15,17 @@ The app also uses the Room library to send data to the SQLite local database.
 A Food Delivery Android App with various restaurants and multiple menu items in them. Users can mark their favorite restaurants and also track their order history. They can also sort restaurants by three parameters: rating, cost(high to low), cost(low to high).
 
 ***
+## Screenshots
+
+
+<p>
+<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Flash%20Screen.jpg" alt="feed example" width = "300" >
+<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Login%20Screen.jpg" alt="upload photo example"width = "300" >
+<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Register%20Screen.jpg" alt="go to a profile from feed" width = "300">
+<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Navigation%20Drawer.jpg" alt="edit profile example" width = "300" >
+<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Home%20Menu.jpg" alt="comment and activity feed example" width = "300">
+  
+<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Order%20Checkout%20Screen.jpg" alt="comment and activity feed example" width = "300">
+<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Order%20Confirm%20Screen.jpg" alt="comment and activity feed example" width = "300">
+<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Order%20History%201.jpg" alt="comment and activity feed example" width = "300">
+</p>
