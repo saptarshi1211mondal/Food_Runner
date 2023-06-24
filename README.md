@@ -1,4 +1,4 @@
-![All Restaurants](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/4b35b11b-664c-426f-8fe5-5098a548a2e1)
+
 # FoodRunner-App  <a href="https://github.com/saptarshi1211mondal/Food_Runner/raw/master/app/release/app-release.apk" target="blank"> <img src="/Screenshots/food_runner_logo.png" width="100"  title="Download apk"> </a>
 Android App for ordering food online build using Kotlin and XML
 
@@ -20,7 +20,7 @@ A Food Delivery Android App with various restaurants and multiple menu items in 
 
 
 <p>
-<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Flash%20Screen.jpg" alt="feed example" width = "300" >
+<img src="[https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Flash%20Screen.jpg](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/4b35b11b-664c-426f-8fe5-5098a548a2e1)" alt="feed example" width = "300" >
 <img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Login%20Screen.jpg" alt="upload photo example"width = "300" >
 <img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Register%20Screen.jpg" alt="go to a profile from feed" width = "300">
 <img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Navigation%20Drawer.jpg" alt="edit profile example" width = "300" >
