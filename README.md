@@ -1,3 +1,4 @@
+![All Restaurants](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/4b35b11b-664c-426f-8fe5-5098a548a2e1)
 # FoodRunner-App  <a href="https://github.com/saptarshi1211mondal/Food_Runner/raw/master/app/release/app-release.apk" target="blank"> <img src="/Screenshots/food_runner_logo.png" width="100"  title="Download apk"> </a>
 Android App for ordering food online build using Kotlin and XML
 
