@@ -18,7 +18,7 @@ A Food Delivery Android App with various restaurants and multiple menu items in 
 ***
 ## Screenshots
 
-<img src="https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/8a2db1c6-3336-486d-a475-468fa305c1bc" width="200" height="400" />
+<img src="https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/8a2db1c6-3336-486d-a475-468fa305c1bc" width="200" height="200" />
 <img src="https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/def61c23-7289-409a-a503-6d1f227ed3d4" width="200" height="400" />
 <img src="https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/1f554c64-621c-4c75-addb-0ab3dd898027" width="200" height="400" />
 <img src="https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/1691eda5-afc5-4b86-8c1c-1bc9d326ad92" width="200" height="400" />
