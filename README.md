@@ -18,15 +18,20 @@ A Food Delivery Android App with various restaurants and multiple menu items in 
 ***
 ## Screenshots
 
-
-<p>
-<img src="[https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Flash%20Screen.jpg](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/4b35b11b-664c-426f-8fe5-5098a548a2e1)" alt="feed example" width = "300" >
-<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Login%20Screen.jpg" alt="upload photo example"width = "300" >
-<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Register%20Screen.jpg" alt="go to a profile from feed" width = "300">
-<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Navigation%20Drawer.jpg" alt="edit profile example" width = "300" >
-<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Home%20Menu.jpg" alt="comment and activity feed example" width = "300">
-  
-<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Order%20Checkout%20Screen.jpg" alt="comment and activity feed example" width = "300">
-<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Order%20Confirm%20Screen.jpg" alt="comment and activity feed example" width = "300">
-<img src="https://github.com/saptarshi1211mondal/Food_Runner/blob/7ce193990f972f08b5f11fd4a15f7c92c0e57c49/Screenshots/Order%20History%201.jpg" alt="comment and activity feed example" width = "300">
-</p>
+![User Profile](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/1691eda5-afc5-4b86-8c1c-1bc9d326ad92)
+![Selected Food Items](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/d4d4075a-d85d-4821-8ed2-4c4788fddb0c)
+![Register Screen](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/f9909ade-ce05-4d89-aee3-8d529d1c3ca1)
+![Order History](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/14e99381-f6cd-4123-993c-b273934e189c)
+![Order History 1](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/a5807b18-e041-4523-a088-94ea4eb05652)
+![Order Confirm Screen](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/07f9bea5-0ecf-4f62-8ba2-d2b8070d9297)
+![Order Checkout Screen](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/75334448-a2cd-49d4-a601-8b25e6d214c1)
+![Navigation Drawer](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/b2110d92-ece5-4e1f-8b65-beb9d3b37c20)
+![Login Screen](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/1f554c64-621c-4c75-addb-0ab3dd898027)
+![Home Menu](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/7f790024-e84d-442d-bcc3-fd8621c48d62)
+![food_runner_logo](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/8a2db1c6-3336-486d-a475-468fa305c1bc)
+![Food Items](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/e2fc8cc8-5ddf-4568-b388-fd9a697958f1)
+![Flash Screen](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/def61c23-7289-409a-a503-6d1f227ed3d4)
+![Fillter Option](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/f2674786-1984-482e-b4f2-026b522658a7)
+![Favourites Screen](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/76139c9a-5da1-406e-b170-8884ef11187c)
+![Exit Option](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/73bf5b1c-1fc2-40da-ba97-d1b7d17edd79)
+![All Restaurants](https://github.com/saptarshi1211mondal/Food_Runner/assets/70250497/25db2fd1-c1a4-4afc-bbf3-cc1da9349bb1)
