@@ -1,6 +1,38 @@
-
-# FoodRunner-App  <a href="https://github.com/saptarshi1211mondal/Food_Runner/raw/master/app/release/app-release.apk" target="blank"> <img src="https://user-images.githubusercontent.com/70250497/248444828-3c9c6607-8c35-4f61-a8af-4652dc388e1d.png" width="100" height="100"  title="Download apk"> </a>
+# FoodRunner Android App  <a href="https://github.com/saptarshi1211mondal/Food_Runner/raw/master/app/release/app-release.apk" target="blank"> Download Link <img src="https://user-images.githubusercontent.com/70250497/248444828-3c9c6607-8c35-4f61-a8af-4652dc388e1d.png" width="50" height="50"  title="Download apk"> </a>
 Android App for ordering food online build using Kotlin and XML
+
+# 1. Introduction :-
+
+Food Runner is an online food ordering android application that enables users to discover nearby restaurants and cafes, view menus, read reviews and ratings and place orders over a range of restaurants.
+
+To develop this project, I used the Incremental model and followed the five basic principles of the software development lifecycle, which are:
+1. Requirement Gathering
+2. Analysis
+3. Designing
+4. Coding
+5. Testing
+ 
+# 2. Modules :-
+ 
+This project consists of severals modules to support its functionalities such as user registration, login/logout, favourite orders, favourite restaurants, order placement and many more. These modules work together to provides a smooth user experience.
+
+# 3. Technologies Used :-
+
+In this project I used Android Studio as the primary framework, with XML for the frontend design which is used to define the layout and UI components of an Android app and Kotlin as the programming language and SharedPreferences to store data locally. I find this combination provides me a powerful and efficient platform to create robust and user-friendly Android applications.
+
+I choose this framework over Flutter or React native because Android Studio is a native Android development framework which provides a comprehensive set of tools, libraries and features to design, build, and debug Android applications efficiently. 
+
+While React Native and Flutter are cross-platform frameworks that allow developers to build apps for both Android and iOS devices using a single codebase, that might not match the performance of native Android apps built with Android Studio. 
+
+
+# 4. Goal of this project :-
+
+The primary goal of the project is to provide a user-friendly platform for food enthusiasts to discover nearby restaurants, order food online, and have it delivered to their doorstep. For users, it offers an easy way to explore various restaurants, access menus and reviews, and enjoy hassle-free food delivery.
+
+
+# 5. Future Feature :-
+If I want to add a new feature in future, I aim to implement personalized recommendations for users based on their preferences and order history. Additionally, we can introduce Push Notifications to notify users about exciting deals.
+
 
 The app is built in Kotlin and uses Volley library to send GET and POST requests through REST api calls.
 The app also uses the Room library to send data to the SQLite local database.
